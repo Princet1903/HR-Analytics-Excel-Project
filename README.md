@@ -48,6 +48,8 @@ Developed an interactive HR Analytics Dashboard in Microsoft Excel to analyze wo
 
 ## 📷 Dashboard Preview
 
+![HR Analytics Dashboard](ExcelDashboard.png)
+
 
 ---
 
